@@ -1,0 +1,8 @@
+name    'kronos-freight'
+version '0.0.1'
+source 'UNKNOWN'
+author 'Kronos Technologies'
+license 'Apache License, Version 2.0'
+summary 'Manage freight'
+description 'Manage freight'
+project_page 'none'
